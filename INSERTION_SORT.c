@@ -28,7 +28,7 @@ int main()
 {
     int A[] = {4, 81, 32, 7, 9, 65};
     int n = 6;
-    selectionSort(A, n);
+    insertionSort(A, n);
     printArray(A, n);
     return 0;
 }
