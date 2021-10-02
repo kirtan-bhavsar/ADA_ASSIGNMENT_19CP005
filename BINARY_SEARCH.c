@@ -21,6 +21,7 @@ int binarySearch(int arr[], int size , int element){
 }
 
 int main(){
+    //Main Function
     int arr[] = {1,3,47,98,154,268,437};
     int size = sizeof(arr)/sizeof(int);
     int element = 268;
