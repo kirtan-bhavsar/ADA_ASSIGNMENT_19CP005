@@ -2,6 +2,7 @@
 #include<conio.h>
 
 int binarySearch(int arr[], int size , int element){
+    //Core Program
     int low,mid,high;
     low = 0;
     high = size-1;
